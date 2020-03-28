@@ -6,4 +6,5 @@ I'm particularly interested in testing, as a big issue I believe was lack of tes
 
 ## Sources
 The COVID Tracking Project (covidtracking.com) - good data including testing data and an API, even
+
 US Census (census.gov) - population data, demographics, etc
